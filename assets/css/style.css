@@ -33,6 +33,24 @@ h2{
 	right: 10px;
 }
 
+h3{
+	float: left;
+	z-index: 2;
+	height: 25px;
+	width: 160px;
+	padding: 15px 20px 10px 20px;
+	position: relative;
+	background: #4aaaa5;
+	text-align: center;
+	right: 180px;
+	top: 143px;
+	font-family: 'Georgia';
+	color: #ffffff;
+	font-weight: normal;
+	font-size: 18px;
+
+}
+
 p{
 	text-indent: 20px;
 	position: relative;
@@ -160,6 +178,13 @@ footer{
 	width: 100%;
 	height: 60px;
 	padding: 40px 0px 0px 0px;
+}
+
+.portfolioPlaceholder{
+	position: relative;
+	left: 20px;
+	z-index: 1;
+	float: left;
 }
 
 .push{
